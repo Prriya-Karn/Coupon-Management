@@ -39,3 +39,12 @@ Simple backend service that supports:
 ## AI Usage Note
 I used ChatGPT to speed up code-writing and validation.
 
+How AI was used: I used ChatGPT to help structure the project, validate API logic, and clarify eligibility rules. All code was implemented, tested, and understood by me.
+
+Prompts used: Examples of prompts I used with ChatGPT:
+
+“Explain how to implement a best coupon selection logic in Node.js based on eligibility rules.”
+
+“Write an Express controller for creating and storing coupons in memory.”
+
+“Provide examples of requests and responses for coupon APIs.”
